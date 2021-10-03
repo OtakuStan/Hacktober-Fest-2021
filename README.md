@@ -9,7 +9,7 @@
 </p>
 
 ## About
-This repo is intended to help all the newbie developers in the software developer community looking out to contribute and enter into the world of open source. For anyone starting fresh open source contributions can be very daunting at first but as you gain experience you become good at it. This project was made to help all the newcomers to submit their first pull request
+This repo is intended to help all the newbie developers in the software developer community looking out to contribute and enter into the world of open source. For anyone starting fresh open source contributions can be very daunting at first but as you gain experience you become good at it. This project was made to help all the newcomers to submit their first pull request. Add any useful project or code snippets that you have made along the way of learning and submit it here for the world to use.
 
 ## Note
 <h1>This Repository is for beginners only!! </h1>
